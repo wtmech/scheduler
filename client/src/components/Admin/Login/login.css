@@ -1,0 +1,37 @@
+.login-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.login-box {
+  width: 350px;
+  background: white;
+  border-radius: 3px;
+  box-sizing: border-box;
+  padding-bottom: 200px;
+}
+
+.login-header {
+  margin-left: 20px;
+  color: #4b8ddf;
+}
+
+.login-subheader {
+  margin: 40px 40px 0 40px;
+  text-align: center;
+  font-weight: 300;
+  color: #acaeae;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  height: 100%;
+  margin: 40px auto 0 auto;
+
+}
